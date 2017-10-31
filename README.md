@@ -21,8 +21,8 @@ E     -> Rotate Camera Right
 F     -> Exceet (Charge Weapon)
 X     -> Devil Trigger
 T     -> Taunt
-C     -> Reset Camera
-Sift + WASD + Space -> Slide
+C     -> Reset Camera  
+Sift + WASD + Space -> Slide  
 
 P     -> Left Mouse Button (Just in case)
 Pause -> Pause / Unpause Script (Just in case)
