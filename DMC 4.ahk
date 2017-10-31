@@ -25,5 +25,5 @@ c::p                         ; [C]     Reset Camera
 
 ; [Shift] + [WASD] + [Space] Slide
 
-p::LButton                   ; [P]     Left Mouse Button; In case you need you mouse
+p::LButton                   ; [P]     Left Mouse Button; In case you need your mouse
 Pause::Pause                 ; [Pause] Pause the script. Pressing it again will unpause.
