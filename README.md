@@ -10,19 +10,19 @@ In case you want to play "Devil May Cry 4 (Special Edition)" on PC and want a pr
 5) Start the Game!
 
 # Hot Key Overview
-Left Mouse Button -> Melee Attack
-Right Mouse Button -> Gun Attack
-Mid Mouse Button -> Special Attack
-Space -> Jump
-Shift -> Lock on Target
-Tab   -> Switch Target
-Q     -> Rotate Camera Left 
-E     -> Rotate Camera Right
-F     -> Exceet (Charge Weapon)
-X     -> Devil Trigger
-T     -> Taunt
+Left Mouse Button -> Melee Attack  
+Right Mouse Button -> Gun Attack  
+Mid Mouse Button -> Special Attack  
+Space -> Jump  
+Shift -> Lock on Target  
+Tab   -> Switch Target  
+Q     -> Rotate Camera Left   
+E     -> Rotate Camera Right  
+F     -> Exceet (Charge Weapon)  
+X     -> Devil Trigger  
+T     -> Taunt  
 C     -> Reset Camera  
 Sift + WASD + Space -> Slide  
 
-P     -> Left Mouse Button (Just in case)
+P     -> Left Mouse Button (Just in case)  
 Pause -> Pause / Unpause Script (Just in case)
