@@ -1,4 +1,4 @@
-﻿#NoEnv                       ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv                       ; Recommended for performance and compatibility with future AutoHotkey releases.
 ;#Warn                       ; Enable warnings to assist with detecting common errors.
 SendMode Input               ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -9,7 +9,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Devil May Cry 4 - (Special Edition) - Keyboard + Mouse Mapping
 ; -----------------------------------------------------------------------------------------------------------
 
-
+#IfWinActive, ahk_class DEVIL_MAY_CRY_4_SPECIAL_EDITION ; Make sure we're actually targeting DMC4
 LButton::i                   ; [LMB]   Melee Attack
 RButton::j                   ; [RMB]   Gun Attack
 MButton::l                   ; [MMB]   Special Attack
