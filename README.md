@@ -26,3 +26,6 @@ Sift + WASD + Space -> Slide
 
 P     -> Left Mouse Button (Just in case)  
 Pause -> Pause / Unpause Script (Just in case)
+
+You can lookup key_codes using the documentation, so you can change keys as you like:  
+[https://www.autohotkey.com/docs/v1/KeyList.htm](https://www.autohotkey.com/docs/v1/KeyList.htm)
